@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  color: #00B7FF; }
+
+.parallax {
+  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto; }
+
+#boxone {
+  background: #212121;
+  height: 20%; }
+
+#boxtwo {
+  background: purple;
+  height: 20%; }
+
+/*# sourceMappingURL=style.css.map */
