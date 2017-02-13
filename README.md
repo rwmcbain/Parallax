@@ -1,2 +1,2 @@
 # Parallax
-Test build of a parallax website
+Test build
