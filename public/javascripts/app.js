@@ -21,7 +21,7 @@ function changeColor(){
 	yellowbox.style.background= '#2ecc71';		
 	});
 	yellowbox.addEventListener("mouseleave", function(){
-	yellowbox.style.background = '#f1c40f';
+	yellowbox.style.background = '#f1c40f'; 
 	});
 	var greenbox = document.getElementById("boxfour");
 	greenbox.addEventListener("mouseover", function(){
