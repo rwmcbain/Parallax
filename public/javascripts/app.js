@@ -16,7 +16,7 @@ function changeColor(){
 	orangebox.addEventListener("mouseleave", function(){
 	orangebox.style.background = '#f39c12';
 	});
-	var yellowbox = document.getElementById("boxthree");
+	var yellowbox = document.getElementById("boxthree"); 
 	yellowbox.addEventListener("mouseover", function(){
 	yellowbox.style.background= '#2ecc71';		
 	});
