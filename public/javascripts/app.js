@@ -23,7 +23,7 @@ function changeColor(){
 	yellowbox.addEventListener("mouseleave", function(){
 	yellowbox.style.background = '#f1c40f'; 
 	});
-	var greenbox = document.getElementById("boxfour");
+	var greenbox = document.getElementById("boxfour"); 
 	greenbox.addEventListener("mouseover", function(){
 	greenbox.style.background= '#f1c40f';		
 	});
